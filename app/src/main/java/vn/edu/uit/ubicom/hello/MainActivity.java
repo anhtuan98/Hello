@@ -10,6 +10,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Adding the first Comment 
+        // Adding the first Comment
+
+
+
+        // 3rd modifications --> will be conflicted
+        
     }
 }
