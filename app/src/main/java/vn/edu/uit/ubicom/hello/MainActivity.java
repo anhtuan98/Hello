@@ -11,5 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Adding the first Comment 
+        // 2nd user adding 2nd comment 
+        int i=0; 
+
     }
 }
